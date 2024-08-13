@@ -1,13 +1,20 @@
 # 💫 About Me:
-👋Hey, I'm Hong Ji ! <br>
+
+</div>
+
+<h1 align="center">👋 Hello, I'm Hong Ji</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A+novice+programmer;A+content+creator!;A+novice+entrepreneur!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=A+novice+programmer;A+Workaholic+???!;A+code+enthusiast!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
-<br>💻 I am a 2023 graduate of Nanyang Polytechnic, where I obtained my diploma in Infocomm and Security.  
+
+<p align="center">
+  Content Creator | Gamer | Novice Entrepreneur
+</p>
+
+<br>💻 I am a 2023 graduate of Nanyang Polytechnic, where I obtained my diploma in Infocomm and Security.
 <br>💵 I am a dealer for several companies, including Onexox and Eckare.
-<br>🌱 I’m currently learning more about web development.
-<br>⚡ Fun fact: Roblox got me hooked on programming because I would create small games when I was younger.
+<br>🌱 I’m currently creating a <a href="https://github.com/hongjiNH/discordBotTest01"> Discord.js </a>.
 
 
 <div>
