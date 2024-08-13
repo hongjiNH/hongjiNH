@@ -1,7 +1,3 @@
-# 💫 About Me:
-
-</div>
-
 <h1 align="center">👋 Hello, I'm Hong Ji</h1>
 
 <p align="center">
@@ -11,15 +7,15 @@
 <p align="center">
   Content Creator | Gamer | Novice Entrepreneur
 </p>
+<hr />
 
+# 💫 About Me:
 <br>💻 I am a 2023 graduate of Nanyang Polytechnic, where I obtained my diploma in Infocomm and Security.
 <br>💵 I am a dealer for several companies, including Onexox and Eckare.
 <br>🌱 I’m currently creating a <a href="https://github.com/hongjiNH/discordBotTest01"> Discord.js </a>.
 
 
-<div>
-<hr />
-
+</div>
 
 <!--
 **hongjiNH/hongjiNH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
