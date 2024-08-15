@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello, I'm Hong Ji</h1>
+<h1 align="center">👋 Hi, I'm Hong Ji</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A+novice+programmer;A+Workaholic+???!;A+code+enthusiast!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=A+Novice+Programmer+!;A+Workaholic+???!;A+Code+Enthusiast+!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 
 <p align="center">
@@ -9,32 +9,14 @@
 </p>
 
 <div align="center">
-<table >
-  <tr >
-    <td align="center"  >
-      <a href="https://www.youtube.com/@nothealthy" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40nothealthy&subtitle=@nothealthy&size=square" alt="nothealthy" height="150">
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://twitch.tv/nothealthyofficial" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fnothealthyofficial&subtitle=@nothealthyofficial&size=square" alt="nothealthyofficial" height="150">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/chai-hong-ji-64ab72225/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fchai-hong-ji-64ab72225%2F&subtitle=@Hong+Ji&size=square" alt="Hong Ji" height="150">
-      </a>
-    </td>
-  </tr>
   
-</table>
+![Youtube Gaming](https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white&link=https%3A%2F%2Fwww.youtube.com%2F%40nothealthy&label=nothealthy) ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white&link=https%3A%2F%2Ftwitch.tv%2Fnothealthyofficial&subtitle=@nothealthyofficial&label=nothealthyofficial) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&label=Hong+Ji) ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2FhongjiNH&label=hongji) ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=whit&link=https%3A%2F%2Fwww.hackerrank.com%2Fprofile%2Fhongjichai&label=hongjichai)
 
 <hr />
 
 # 💫 About Me:
 
-<br>💻 I am a 2023 graduate of Nanyang Polytechnic, where I obtained my diploma in Infocomm and Security.
+<br>:student: I am a 2023 graduate of Nanyang Polytechnic, where I obtained my diploma in Infocomm and Security.
 <br>💵 I am a dealer for several companies, including Onexox and Eckare.
 <br>🌱 I’m currently creating a <a href="https://github.com/hongjiNH/discordBotTest01"> Discord.js </a>.
 </div>
