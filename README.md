@@ -151,6 +151,27 @@
   </tbody>
  </table>
 </div>
+
+<h3 align="center">Others</h3>
+<div align="center">
+  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="5" align="center" style="color: white;">Software Used</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" alt="Pycharm" width="50" height="50"/><br>Pycharm
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="Visual Studio Code" width="50" height="50"/><br>VS Code
+      </td>
+    </tr>
+  </tbody>
+ </table>
+</div>
 <hr/>
 
 <h3 align="center">Git Stats</h3>
