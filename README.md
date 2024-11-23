@@ -19,6 +19,7 @@
 <br>:student: I am a 2023 graduate of Nanyang Polytechnic, where I obtained my diploma in Infocomm and Security.
 <br>💵 I am a dealer for several companies, including Onexox and Eckare.
 <br>🌱 I’m currently creating a <a href="https://github.com/hongjiNH/discordBotTest01"> Discord.js </a>.
+<br>[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K716GVLF)
 </div>
 
 <hr/>
